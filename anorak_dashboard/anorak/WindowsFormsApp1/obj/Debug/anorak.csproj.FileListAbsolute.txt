@@ -1,0 +1,11 @@
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\anorak.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\anorak.csproj.SuggestedBindingRedirects.cache
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\anorak.csproj.GenerateResource.cache
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\anorak.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USer\source\repos\anorak\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
